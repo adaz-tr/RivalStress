@@ -1,0 +1,14 @@
+# RIVAL STRESS - Gerekli Modüller
+# Python 3.8+ gereklidir
+
+# Tüm modüller Python standart kütüphanesinde bulunur
+# Ek kurulum gerekmez!
+
+# Kullanılan standart modüller:
+# - socket (ağ iletişimi)
+# - threading (çoklu thread desteği)
+# - time (zaman yönetimi)
+# - sys (sistem işlemleri)
+# - datetime (tarih/saat)
+# - os (işletim sistemi)
+# - ctypes (Windows terminal desteği)
